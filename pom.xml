@@ -19,6 +19,7 @@
 
     <modules>
         <module>sboot-tx</module>
+        <module>sboot-starter</module>
     </modules>
 
     <properties>
