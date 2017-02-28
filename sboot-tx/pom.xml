@@ -27,6 +27,11 @@
 			<artifactId>mysql-connector-java</artifactId>
 		</dependency>
 		<dependency>
+			<groupId>io.github.kuyer</groupId>
+			<artifactId>sboot-starter</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
