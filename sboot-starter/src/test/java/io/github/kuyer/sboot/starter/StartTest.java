@@ -3,7 +3,9 @@ package io.github.kuyer.sboot.starter;
 public class StartTest {
 
 	public static void main(String[] args) {
-		System.out.println("hello, starter.");
+		int i = -100;
+		int j = 0-i;
+		System.out.println(j);
 	}
 
 }
